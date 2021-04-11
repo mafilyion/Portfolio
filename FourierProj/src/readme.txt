@@ -1,0 +1,3 @@
+W moim przypadku podczas tworzenia projektu w środowisku visual studio zaznaczyłem, aby program umieszczał solucję oraz projekt w tym samym katalogu,
+więc nie jest możliwe tak naprawdę wyczyszczenie solucji w taki sposób jaki jest opisany na karcie przedmiotu. Jedyną sytuacją w jakiej i plik zawierający projekt
+oraz plik zawierający solucję działają poprawnie jest sytuacja, w której oba te pliki są w jednym folderze.
